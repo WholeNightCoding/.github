@@ -11,17 +11,18 @@ you're building.
 
 ### CLI tools & dashboards
 
-| Repo | What |
-|---|---|
-| [**token-usage**](https://github.com/WholeNightCoding/token-usage) | Local-first analytics for your Claude Code token consumption. CLI + browser dashboard + Markov / change-point / Gini analysis + 🤖 AI 解读. |
+- **[token-usage](https://github.com/WholeNightCoding/token-usage)** —
+  Local-first analytics for your Claude Code token consumption. CLI + browser
+  dashboard + Markov / change-point / Gini analysis + 🤖 AI 解读.
 
 ### Claude Code skills
 
 Auto-discovered by Claude Code when cloned into `~/.claude/skills/`.
 
-| Repo | Triggers on |
-|---|---|
-| [**web-screenshot**](https://github.com/WholeNightCoding/web-screenshot) | "截图" / "screenshot this page" / "拍个图" — drives a headless browser via natural language to PNG any URL. Self-bootstraps Node deps + chrome-headless-shell on first run. |
+- **[web-screenshot](https://github.com/WholeNightCoding/web-screenshot)** —
+  "截图" / "screenshot this page" / "拍个图" — drives a headless browser via
+  natural language to PNG any URL. Self-bootstraps Node deps +
+  chrome-headless-shell on first run.
 
 ## Principles
 
